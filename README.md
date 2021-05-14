@@ -15,4 +15,6 @@ rasa shell nlu
 
 Look at the docs for more commands
 
+Learn more about Rasa [here](https://rasa.com/docs/rasa/playground/)
+
 The demo videos can be found [here](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
