@@ -15,4 +15,4 @@ rasa shell nlu
 
 Look at the docs for more commands
 
-The demo videos can be found here
+The demo videos can be found [here](https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc)
